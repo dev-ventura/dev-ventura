@@ -1,17 +1,78 @@
-# 💫 Sobre mi:
-Hola soy Mel! Desarrolladora web que le encanta viajar y compartir lo aprendido, es curiosa y creativa! Una frase que dice muy seguido es: ¡A darle con todo! <br>Gracias por visitar mi perfil, bienvenidx ;)
+<img src="/portada perfil.png"></img>
+
+###
+
+<h2 align="left">🐧 Sobre mi</h2>
+
+###
+
+<p align="left">Hola soy Mel! 
+<br> 📚 Desarrolladora web frontend aventurandose en el mundo de Angular y React, me encanta viajar y compartir lo aprendido
+<br> ✨ Soy curiosa y creativa cuando hago arte a través de la tecnología, dando vida al diseño a través del código.
+<br> 🎈 Me encantan las plantas, los patos y los pingüinos. 
+<br>Gracias por visitar mi perfil, bienvenidx ;D Aqui te muestro las tecnolgías que puse en práctica hasta ahora en los proyectos que hice...
+
+###
+
+<h3 align="left">Programación</h3>
+
+###
+
+<div align="left">
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" height="40"/>
+  <img width="12" />
+  <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/370607/images/5195121/badge-css-3-512.png" height="40"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+</div>
+
+###
+<h3 align="left">Frameworks y Librerias</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
+  <img width="12" />
+</div>
+
+###
+<h3 align="left">Control de versiones</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="http://pngimg.com/uploads/github/github_PNG53.png" height="40" alt="github logo"  />
+  <img width="12" />
+</div>
+
+###
+<h3 align="left">Diseño y herramientas de organización</h3>
+
+###
+
+<div align="left">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://brandlogos.net/wp-content/uploads/2022/07/notion-logo_brandlogos.net_uiish.png" height="40" alt="notion logo"  />
+  <img width="12" />  
+  <img src="https://images-na.ssl-images-amazon.com/images/I/61L4Vl9NGvL.png" height="40" alt="focus to do logo"  />
+  <img width="12" />
+  <img src="https://trees.org/wp-content/uploads/2022/03/icon4_512-1-e1457961329599-3-300x300.png" height="40" alt="focus to do logo"  />
+  <img width="12" />
+</div>
+
+###
 
 
-## 🌐 Redes sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melany-ventura) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dev.ventura) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=dev-ventura&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
